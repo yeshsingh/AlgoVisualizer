@@ -1,4 +1,4 @@
-<h1 align="center"><a target="_blank" href="https://map-my-path.herokuapp.com/">MapMyPath</a></h1>
+<h1 align="center"><a>AlgoVisualizer</a></h1>
 
 ## A path finding visulizer
 A visualiser that helps to understand complex graph algorithms.
